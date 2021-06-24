@@ -1,12 +1,9 @@
-## Bienvenue sur mon CV en ligne
-                                _                          
- \  / |  _.  _| o ._ _  o ._   |_ _      o | |  _.  _|  _  
-  \/  | (_| (_| | | | | | |    | (_) |_| | | | (_| (_| (/_ 
-                                                           
+### Testeur QA automaticien                                                           
 
-Testeur QA.
+**_Testeur QA_**
+_Cypress, Selenium, Postman_
 
-### Markdown
+### Parcours
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
