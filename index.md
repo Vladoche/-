@@ -1,4 +1,4 @@
-# Testeur QA automaticien                                                           
+# ✔️ Testeur QA automaticien                                                           
 _Cypress, Selenium, Postman_
 
 ### Parcours
