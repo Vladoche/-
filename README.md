@@ -1,2 +1,2 @@
-# vf-resume
-My resume for all my future bosses. Know my name !
+# Vladimir Fouillade
+Un coup d'oeil sur un parcours atypique.
