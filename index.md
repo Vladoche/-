@@ -1,4 +1,8 @@
 ## Bienvenue sur mon CV en ligne
+                                _                          
+ \  / |  _.  _| o ._ _  o ._   |_ _      o | |  _.  _|  _  
+  \/  | (_| (_| | | | | | |    | (_) |_| | | | (_| (_| (/_ 
+                                                           
 
 Testeur QA.
 
